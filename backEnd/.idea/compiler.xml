@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="notification" />
         <module name="eureka" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eureka" options="-parameters" />
+      <module name="gateway" options="-parameters" />
       <module name="notification" options="-parameters" />
     </option>
   </component>
