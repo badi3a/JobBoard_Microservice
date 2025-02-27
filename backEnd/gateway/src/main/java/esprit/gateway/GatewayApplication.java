@@ -33,6 +33,8 @@ public class GatewayApplication {
                 r->r.path("/mic5/**")
                         .uri("lb://meeting")).
                 build();
+
      }
+
 
 }

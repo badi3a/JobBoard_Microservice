@@ -29,5 +29,6 @@ By the end of this training, students will be able to **design, develop, and dep
 
 ## 🎓 Acknowledgment
 This project is part of the academic training provided by **ESPRIT School of Engineering**, aiming to equip students with industry-relevant skills in modern software development.
-
+## 👨‍🏫 Contact
+Connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/badiabouhdid/)
 ---  
