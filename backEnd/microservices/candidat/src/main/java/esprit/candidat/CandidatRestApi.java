@@ -26,6 +26,10 @@ public class CandidatRestApi {
     }
 
 
+
+
+
+
     @Autowired
     private CandidatService candidatService;
     @GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
@@ -34,4 +38,12 @@ public class CandidatRestApi {
                 HttpStatus.OK);
 
     }
+
+    @RequestMapping("/hellojob")
+    public String sayHelloJob(){
+        return candidatService.sayHello();
+    }
+
+
+
 }
