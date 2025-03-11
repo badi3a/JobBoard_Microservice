@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/backEnd/microservices/condidature/pom.xml" />
         <option value="$PROJECT_DIR$/backEnd/microservices/meeting/pom.xml" />
         <option value="$PROJECT_DIR$/backEnd/microservices/notification/pom.xml" />
+        <option value="$PROJECT_DIR$/backEnd/config-server/pom.xml" />
       </list>
     </option>
   </component>
